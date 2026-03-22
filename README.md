@@ -1,4 +1,4 @@
-# Application Mobile Contact
+# Application Contact
 
 Application de gestion de contacts développée avec Flutter.
 
